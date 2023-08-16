@@ -10,8 +10,8 @@ body {
 #line {
     width: 200px;
     height: 2px;
-    background-color: black;
-    position: relative;
+    background-color: rgb(0,0,0);
+    position: absolute;
     animation: rotateLine 4s linear infinite;
 }
 
